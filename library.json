@@ -1,11 +1,11 @@
 {
   "name": "Dsmr",
   "version": "0.7",
-  "description": "Parser and utilities for Dutch Smart Meters (Implementing DSMR)",
+  "description": "Parser and utilities for Dutch Smart Meters (Implementing DSMR), LT ESO patched",
   "keywords": "dsmr",
   "repository": {
     "type": "git",
-    "url": "https://github.com/glmnet/arduino-dsmr.git"
+    "url": "https://github.com/acirtautas/arduino-dsmr.git"
   },
   "license": "MIT",
   "exclude": ["specs/"]
